@@ -3,7 +3,7 @@
     <property name="created">2016-10-20T10:48:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2016-10-20T10:59:07</property>
+    <property name="modified">2016-10-20T11:20:12</property>
     <property name="originalScheme">Material Theme - Darker copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -402,7 +402,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d7d7d" />
+        <option name="FOREGROUND" value="259d49" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -488,7 +488,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="7d7d7d" />
+        <option name="FOREGROUND" value="259d49" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
