@@ -12,7 +12,7 @@ Custom dark text theme for use with Jetbrains IDEs (Webstorm, Android Studio, Ru
 
 ## IDE Theme
 
-JetBrains comes with two default IDE themes; normal and darkula. This text theme supports _dark IDE fonts only_. I highly suggest using @ChrisRM's [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) over Darkula.
+JetBrains comes with two default IDE themes; normal and darkula. This text theme supports _dark IDE fonts only_. I highly suggest using [https://githbu.com/chrisrm/](@ChrisRM's) [material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) over Darkula.
 
 #### Screenshots
 
